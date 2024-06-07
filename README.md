@@ -1,6 +1,7 @@
 ## Google Play Store Apps Data Analysis
+![](https://github.com/MissNeerajSharma/Data_Visualization_using_Python/blob/master/google.jpg)
 This repository contains an exploratory data analysis (EDA) of a dataset of Google Play Store apps. The dataset includes information on various app characteristics such as category, rating, reviews, size, installs, price, content rating, genres, last updated date, current version, and required Android version.
-
+## Sample projection are shown below.
 ## Dataset
 The dataset used in this analysis can be found here. It contains 10,841 entries with the following columns:
 
@@ -40,11 +41,11 @@ How do free and paid apps compare in terms of ratings and number of installs?
 The most common app categories are dominated by "Family", followed by "Game", "Tools", "Medical", and "Business".
 
 2. Distribution of App Ratings
-
+![Distribution of App Ratings](https://github.com/MissNeerajSharma/Data_Visualization_using_Python/blob/master/App%20Distribution.png)
 The majority of apps have ratings between 4.0 and 4.5, indicating that most apps are well-received by users.
 
 3. Variation of App Sizes Across Categories
-
+![ Variation of App Sizes Across Categories](https://github.com/MissNeerajSharma/Data_Visualization_using_Python/blob/master/Distribution%20by%20category.png)
 There is considerable variation in app sizes across different categories. Categories like "Game" and "Family" have a wider range of app sizes, while "Medical" and "Business" tend to have smaller sizes.
 
 4. Relationship Between Number of Reviews and App Rating
@@ -57,7 +58,7 @@ The most common genres include "Tools", "Entertainment", "Education", "Business"
 
 6. Comparison of Free and Paid Apps
 Ratings
-![Comparison of Free and Paid Apps by Rating]()
+![Comparison of Free and Paid Apps by Rating](https://github.com/MissNeerajSharma/Data_Visualization_using_Python/blob/master/3.png)
 Free and paid apps have similar ratings, with a slight edge towards free apps.
 
 Installs
